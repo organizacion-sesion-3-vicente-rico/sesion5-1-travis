@@ -14,3 +14,5 @@ composer install
 ``` bash
 composer test
 ```
+
+[![Build Status](https://travis-ci.com/organizacion-sesion-3-vicente-rico/sesion5-1-travis.svg?branch=master)](https://travis-ci.com/organizacion-sesion-3-vicente-rico/sesion5-1-travis)
