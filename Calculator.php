@@ -16,5 +16,11 @@ class Calculator
     {
         return $a / $b;
     }
+	
+    public function esPar($num): bool
+    {
+        return (($num % 2) == 0);
+    }
+	
  
 }
